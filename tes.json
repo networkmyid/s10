@@ -1,0 +1,37 @@
+{	"data":
+	[	
+		{
+			"id":1,
+			"judul":"Waterfall One",
+			"image":"https://1.bp.blogspot.com/-IsFYw-A5Mnk/Xj6tj_uBOwI/AAAAAAAAAL0/gC2PjfOSYOsLVp1DsEaY1VLYoz2yX_sBQCLcBGAsYHQ/s1600/1.jpg"
+		},
+		{
+			"id":2,
+			"judul":"Waterfall Two",
+			"image":"https://1.bp.blogspot.com/-6YWcNBVPCNg/Xj6tjCCRw8I/AAAAAAAAALs/Zk5SvpuPvlU1UiVq70O4Qpy2xJQLMWnxwCLcBGAsYHQ/s1600/2.jpg"
+		},
+			{
+			"id":3,
+			"judul":"Waterfall Tilu",
+			"image":"https://1.bp.blogspot.com/-uImFnZ5R_WQ/Xj6tmr33GHI/AAAAAAAAAL8/IvDltg7ZKhsPL2UQ-LQZ6o1-l1gk9EOaQCLcBGAsYHQ/s1600/3.jpg"
+		},
+		{
+			"id":4,
+			"judul":"Waterfall Opat",
+			"image":"https://1.bp.blogspot.com/-CaLHL_DaPi8/Xj6tnfX-R5I/AAAAAAAAAME/D-W36kim-3MFkXXHACD4Mb7SwTHB_vDKACLcBGAsYHQ/s1600/4.jpg"
+		}
+		
+		,
+			{
+			"id":5,
+			"judul":"Waterfall Lima",
+			"image":"https://1.bp.blogspot.com/-ywV8gds1xnI/Xj6tlII0oOI/AAAAAAAAAL4/qLFMYNb95cAylconmobuWtoHab6IDjIzQCLcBGAsYHQ/s1600/5.jpg"
+		},
+		{
+			"id":6,
+			"judul":"Waterfall Opat",
+			"image":"https://1.bp.blogspot.com/-_jmp5YOZaaY/Xj6tm-wJr7I/AAAAAAAAAMA/kdRUXe_Oh5gYHU3ELKaXRlO1iIUpYcKhQCLcBGAsYHQ/s1600/6.jpg"
+		}
+
+	]
+}
