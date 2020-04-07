@@ -19,9 +19,9 @@
         "inter_splash":"0",
         "pengaturan_iklan":"1",
         
-        "fan_inter":"981545408591412_999151030164100",
-        "fan_banner_native":"981545408591412_2709037092508800",
-        "fan_native":"981545408591412_1232226853523200",
+        "fan_inter":"981545408591412_999151030164183",
+        "fan_banner_native":"981545408591412_2709037092508893",
+        "fan_native":"981545408591412_1232226853523265",
         
         "inmobi_inter": 1476878485960,
         "inmobi_banner":1473189489298,
@@ -63,19 +63,19 @@
 	"Categories": [
     {
 		"id": 1,
-		"nama_cat": "Dragon Ball",
+		"nama_cat": "Category 1",
 		"gambar": "file:///android_asset/gambar/roronoa.jpg"
      
     },
     {
 		"id": 2,
-		"nama_cat": "Naruto",
+		"nama_cat": "Category 2",
 		"gambar": "file:///android_asset/gambar/roronoa.jpg"
     
     },
     {
 		"id": 3,
-		"nama_cat": "One Piece",
+		"nama_cat": "Category 3",
 		"gambar": "file:///android_asset/gambar/roronoa.jpg"
     
 		}
@@ -88,43 +88,701 @@
 		{
 			"id":1,
 			"id_wall":"001",
-			"nama_cat": "One Piece",
+			"nama_cat": "Category 1",
 			"judul":"Roronoa Zoro",
 			"image":"file:///android_asset/gambar/roronoa.jpg"
 		},
 		{
 			"id":2,
 			"id_wall":"002",
-			"nama_cat": "One Piece",
-			"judul":"Jinbei",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
 			"image":"file:///android_asset/gambar/roronoa.jpg"
 		},
 		{
 			"id":3,
 			"id_wall":"003",
-			"nama_cat": "Dragon Ball",
-			"judul":"Vegeta",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
 			"image":"file:///android_asset/gambar/roronoa.jpg"
 		},
 		{
 			"id":4,
 			"id_wall":"004",
-			"nama_cat": "Dragon Ball",
-			"judul":"Kamen Shenin",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
 			"image":"file:///android_asset/gambar/roronoa.jpg"
 		},
 		{
 			"id":5,
 			"id_wall":"005",
-			"nama_cat": "One Piece",
-			"judul":"Shank",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
 			"image":"file:///android_asset/gambar/roronoa.jpg"
 		},
 		{
 			"id":6,
 			"id_wall":"006",
-			"nama_cat": "Naruto",
-			"judul":"Uchiha Itachi",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":7,
+			"id_wall":"007",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":8,
+			"id_wall":"008",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":9,
+			"id_wall":"009",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":10,
+			"id_wall":"010",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":11,
+			"id_wall":"011",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":12,
+			"id_wall":"012",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":13,
+			"id_wall":"013",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":14,
+			"id_wall":"014",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":15,
+			"id_wall":"015",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":16,
+			"id_wall":"016",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":17,
+			"id_wall":"017",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":18,
+			"id_wall":"018",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":19,
+			"id_wall":"019",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":20,
+			"id_wall":"020",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":21,
+			"id_wall":"021",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":22,
+			"id_wall":"022",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":23,
+			"id_wall":"023",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":24,
+			"id_wall":"024",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":25,
+			"id_wall":"025",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":26,
+			"id_wall":"026",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":27,
+			"id_wall":"027",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":28,
+			"id_wall":"028",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":29,
+			"id_wall":"029",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":30,
+			"id_wall":"030",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":31,
+			"id_wall":"031",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":32,
+			"id_wall":"032",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":33,
+			"id_wall":"033",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":34,
+			"id_wall":"034",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":35,
+			"id_wall":"035",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":36,
+			"id_wall":"036",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":37,
+			"id_wall":"037",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":38,
+			"id_wall":"038",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":39,
+			"id_wall":"039",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":40,
+			"id_wall":"040",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+				{
+			"id":41,
+			"id_wall":"041",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":42,
+			"id_wall":"042",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":43,
+			"id_wall":"043",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":44,
+			"id_wall":"044",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":45,
+			"id_wall":"045",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":46,
+			"id_wall":"046",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":47,
+			"id_wall":"047",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":48,
+			"id_wall":"048",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":49,
+			"id_wall":"049",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":50,
+			"id_wall":"050",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+				{
+			"id":51,
+			"id_wall":"051",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":52,
+			"id_wall":"052",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":53,
+			"id_wall":"053",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":54,
+			"id_wall":"054",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":55,
+			"id_wall":"055",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":56,
+			"id_wall":"056",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":57,
+			"id_wall":"057",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":58,
+			"id_wall":"058",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":59,
+			"id_wall":"059",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":60,
+			"id_wall":"060",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+				{
+			"id":61,
+			"id_wall":"061",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":62,
+			"id_wall":"062",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":63,
+			"id_wall":"063",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":64,
+			"id_wall":"064",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":65,
+			"id_wall":"065",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":66,
+			"id_wall":"066",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":67,
+			"id_wall":"067",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":68,
+			"id_wall":"068",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":69,
+			"id_wall":"069",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":70,
+			"id_wall":"070",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":71,
+			"id_wall":"071",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":72,
+			"id_wall":"072",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":73,
+			"id_wall":"073",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":74,
+			"id_wall":"074",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":75,
+			"id_wall":"075",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":76,
+			"id_wall":"076",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":77,
+			"id_wall":"077",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":78,
+			"id_wall":"078",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":79,
+			"id_wall":"079",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":80,
+			"id_wall":"080",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":81,
+			"id_wall":"081",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":82,
+			"id_wall":"082",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":83,
+			"id_wall":"083",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":84,
+			"id_wall":"084",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":85,
+			"id_wall":"085",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":86,
+			"id_wall":"086",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":87,
+			"id_wall":"087",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":88,
+			"id_wall":"088",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":89,
+			"id_wall":"089",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":90,
+			"id_wall":"090",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":91,
+			"id_wall":"091",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":92,
+			"id_wall":"092",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":93,
+			"id_wall":"093",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":94,
+			"id_wall":"094",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":95,
+			"id_wall":"095",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":96,
+			"id_wall":"096",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":97,
+			"id_wall":"097",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":98,
+			"id_wall":"098",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":99,
+			"id_wall":"099",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
+			"image":"file:///android_asset/gambar/roronoa.jpg"
+		},
+		{
+			"id":100,
+			"id_wall":"100",
+			"nama_cat": "Category 1",
+			"judul":"Roronoa Zoro",
 			"image":"file:///android_asset/gambar/roronoa.jpg"
 		}
 
