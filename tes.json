@@ -10,7 +10,7 @@
 			"judul":"Waterfall Two",
 			"image":"https://1.bp.blogspot.com/-6YWcNBVPCNg/Xj6tjCCRw8I/AAAAAAAAALs/Zk5SvpuPvlU1UiVq70O4Qpy2xJQLMWnxwCLcBGAsYHQ/s1600/2.jpg"
 		},
-			{
+		{
 			"id":3,
 			"judul":"Waterfall Tilu",
 			"image":"https://1.bp.blogspot.com/-uImFnZ5R_WQ/Xj6tmr33GHI/AAAAAAAAAL8/IvDltg7ZKhsPL2UQ-LQZ6o1-l1gk9EOaQCLcBGAsYHQ/s1600/3.jpg"
@@ -19,10 +19,8 @@
 			"id":4,
 			"judul":"Waterfall Opat",
 			"image":"https://1.bp.blogspot.com/-CaLHL_DaPi8/Xj6tnfX-R5I/AAAAAAAAAME/D-W36kim-3MFkXXHACD4Mb7SwTHB_vDKACLcBGAsYHQ/s1600/4.jpg"
-		}
-		
-		,
-			{
+		},
+		{
 			"id":5,
 			"judul":"Waterfall Lima",
 			"image":"https://1.bp.blogspot.com/-ywV8gds1xnI/Xj6tlII0oOI/AAAAAAAAAL4/qLFMYNb95cAylconmobuWtoHab6IDjIzQCLcBGAsYHQ/s1600/5.jpg"
