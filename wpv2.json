@@ -15,8 +15,8 @@
         "link_promote": "https://www.google.com/",
         "status_promote": "0",
         
-        "interval": 5,
-        "inter_splash":"0",
+        "interval": 2,
+        "inter_splash":"1",
         "pengaturan_iklan":"1",
         
         "fan_inter":"981545408591412_999151030164183",
